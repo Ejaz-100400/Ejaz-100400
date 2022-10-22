@@ -2,7 +2,7 @@ Hi There! 😎👋
 
 The name's Ejaz Ahmed J 
 #### Web Developer, Digital Analyst and Freelancer 
-![Web Developer, Digital Analyst and Freelancer ]([https://user-images.githubusercontent.com/76722208/197349801-d1eeb0da-eaa1-4f2c-a4cd-f02a6d0dbe87.png](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg))
+![Web Developer, Digital Analyst and Freelancer ]([[https://user-images.githubusercontent.com/76722208/197349801-d1eeb0da-eaa1-4f2c-a4cd-f02a6d0dbe87.png](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg))
 
 I do web development and continuous updates in my coding and I enjoy creating Web-elements 
 Recently, I developed my Portfolio website which helps me to engage in this field and motivates to create more Web projects.
