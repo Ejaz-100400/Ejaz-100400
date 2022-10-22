@@ -6,8 +6,11 @@ The name's Ejaz Ahmed J
 ![Web Developer, Digital Analyst and Freelancer ](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)
 
 
-I do web development and continuous updates in my coding and I enjoy creating Web-elements 
+I do web development and continuous updates in my coding and I enjoy creating Web-elements.
+
 Recently, I developed my Portfolio website which helps me to engage in this field and motivates to create more Web projects.
+
+
  
 Also, I'm a beginner at Digital Analytics tools such as Google Analytics, Adobe Analytics and Adobe Target. 
 
