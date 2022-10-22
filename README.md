@@ -18,7 +18,6 @@ Skills:  JS / HTML / CSS./jQuery/Bootstrap/MySQL/Python/C
 - 📫 How to reach me: ejazahmed4688@gmail.com  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ejaz-100400)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ejaz-ahmed51b1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ejaa_004/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy)
 
