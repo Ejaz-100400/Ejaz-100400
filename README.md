@@ -16,7 +16,7 @@ Also, I'm a beginner at Digital Analytics tools such as Google Analytics, Adobe 
 Skills:  JS / HTML / CSS./jQuery/Bootstrap/MySQL/Python/C
 
 - 🌱 I’m currently learning React and DevOps  
-- 👯 I’m looking to collaborate on A organization where I can develop my skills and programming to meet the demands in the current era  
+- 👯 I’m looking to collaborate on a organization where I can develop my skills and programming to meet the demands in this current era  
 - 📫 How to reach me: ejazahmed4688@gmail.com  
 
 
