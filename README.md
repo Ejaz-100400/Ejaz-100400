@@ -16,7 +16,11 @@ Also, I'm a beginner at Digital Analytics tools such as Google Analytics, Adobe 
 
 
 
-Skills:  JS / HTML / CSS./jQuery/Bootstrap/MySQL/Python/C
+Skills: 
+* 💻 HTML, CSS, JS jquery and Bootstrap 
+* ⚛️ Currently learning React 
+
+
 
 - 🌱 I’m currently learning React and DevOps  
 - 👯 I’m looking to collaborate on a organization where I can develop my skills and programming to meet the demands in this current era  
