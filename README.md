@@ -14,6 +14,7 @@ Recently, I developed my Portfolio website which helps me to engage in this fiel
  
 Also, I'm a beginner at Digital Analytics tools such as Google Analytics, Adobe Analytics and Adobe Target. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Skills: 
@@ -24,9 +25,6 @@ Skills:
 - 👯 I’m looking to collaborate on a organization where I can develop my skills and programming to meet the demands in this current era  
 - 📫 How to reach me: ejazahmed4688@gmail.com  
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz-100400)](https://github.com/anuraghazra/github-readme-stats)
 
