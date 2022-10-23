@@ -10,7 +10,7 @@ I do web development and continuous updates in my coding and I enjoy creating We
 
 Recently, I developed my Portfolio website which helps me to engage in this field and motivates to create more Web projects.
 
-<video src="https://github.com/Ejaz-100400/media/blob/main/ejaportfolio.mp4"></video>
+<!-- <video src="https://github.com/Ejaz-100400/media/blob/main/ejaportfolio.mp4"></video> -->
  
 Also, I'm a beginner at Digital Analytics tools such as Google Analytics, Adobe Analytics and Adobe Target. 
 
@@ -30,7 +30,7 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejaz-100400&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)  
 
