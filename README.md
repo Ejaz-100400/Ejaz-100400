@@ -1,7 +1,7 @@
 Hi There! 😎👋
 
 The name's Ejaz Ahmed J 
-#### Web Developer, Digital Analyst and Freelancer 
+#### Web Developer, Digital Analyst and Freelancer                          ![Profile views](https://gpvc.arturio.dev/Ejaz-100400)  
 
 ![Web Developer, Digital Analyst and Freelancer ](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)
 
@@ -36,4 +36,4 @@ Skills:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)  
 
-![Profile views](https://gpvc.arturio.dev/Ejaz-100400)  
+
