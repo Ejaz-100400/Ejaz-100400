@@ -8,21 +8,16 @@ The name's Ejaz Ahmed J
 
 I do web development and continuous updates in my coding and I enjoy creating Web-elements.
 
-Recently, I developed my Portfolio website which helps me to engage in this field and motivates to create more Web projects.
 
 <!-- <video src="https://github.com/Ejaz-100400/media/blob/main/ejaportfolio.mp4"></video> -->
  
-Also, I'm a beginner at Digital Analytics tools such as Google Analytics, Adobe Analytics and Adobe Target. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Skills: 
-* 💻 HTML, CSS, JS jquery and Bootstrap 
-* 🔎 Tools like Google Analytics, Adobe Analytics, Adobe Target, Google Tag Manager
-
-- 🌱 I’m currently learning Back-End  
-- 👯 I’m looking to collaborate on a organization where I can develop my skills and programming to meet the demands in this current era  
+* 💻 Reactjs,CSS3,Bootstrap,Tailwind,Nodejs & Express 
+- 🌱 I’m currently learning Back-End   
 - 📫 How to reach me: ejazahmed4688@gmail.com  
 
 
