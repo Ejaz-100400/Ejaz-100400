@@ -1,7 +1,8 @@
 Hi There! 😎👋
 
 The name's Ejaz Ahmed J 
-#### Web Developer,Front-End Dev and Freelancer                          ![Profile views](https://gpvc.arturio.dev/Ejaz-100400)  
+#### Web Developer,Front-End Dev and Freelancer                          
+<!-- ![Profile views](https://gpvc.arturio.dev/Ejaz-100400)   -->
 
 ![Web Developer, Digital Analyst and Freelancer ](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)
 
@@ -12,7 +13,7 @@ I do web development and continuous updates in my coding and I enjoy creating We
 <!-- <video src="https://github.com/Ejaz-100400/media/blob/main/ejaportfolio.mp4"></video> -->
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 Skills: 
