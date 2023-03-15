@@ -26,7 +26,7 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejaz-100400&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)   -->
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400)   -->
 
 
