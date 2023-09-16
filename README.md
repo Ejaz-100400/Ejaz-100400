@@ -11,11 +11,11 @@ Skills:
 - 📫 How to reach me: ejazahmed4688@gmail.com  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz-100400)](https://github.com/anuraghazra/github-readme-stats) -->
+</pre>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejaz-100400&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400)  
-</pre>
-
 
