@@ -1,4 +1,4 @@
-Hi There! 😎👋
+
 <img src='Purple Gradient Digital Marketing LinkedIn Banner.png' width='900'/>                
 <!-- ![Profile views](https://gpvc.arturio.dev/Ejaz-100400)   -->
 I do web development and continuous updates in my coding and I enjoy creating Web-elements.
@@ -17,5 +17,5 @@ Skills:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejaz-100400&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400) --> 
 
