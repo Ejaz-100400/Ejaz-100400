@@ -4,7 +4,7 @@ The name's Ejaz Ahmed J
                     
 <!-- ![Profile views](https://gpvc.arturio.dev/Ejaz-100400)   -->
 
-![Web Developer, Digital Analyst and Freelancer ](![image](https://github.com/Ejaz-100400/Ejaz-100400/assets/76722208/40e0ec60-c20c-4214-8a77-52138107b684)
+![Web Developer, Digital Analyst and Freelancer ]([image](https://github.com/Ejaz-100400/Ejaz-100400/assets/76722208/40e0ec60-c20c-4214-8a77-52138107b684)
 )
 
 
