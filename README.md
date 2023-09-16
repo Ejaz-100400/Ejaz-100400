@@ -8,7 +8,7 @@ The name's Ejaz Ahmed J
 
 
 I do web development and continuous updates in my coding and I enjoy creating Web-elements.
-<img src='Purple Gradient Digital Marketing LinkedIn Banner.png' width='300'/>
+<img src='Purple Gradient Digital Marketing LinkedIn Banner.png' width='900'/>
 
 
 <!-- <video src="https://github.com/Ejaz-100400/media/blob/main/ejaportfolio.mp4"></video> -->
