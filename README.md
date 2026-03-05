@@ -1,4 +1,4 @@
-## Ejaz Ahmed 👋
+# Ejaz Ahmed 👋
 📊 Data Analyst | SQL | Tableau | Python  
 🤖 Aspiring AI & Data Science Researcher  
 
