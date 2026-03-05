@@ -49,8 +49,6 @@ CNN Models
 
 ---
 
-## 🔹 Connect With Me
-
 ## 🔗 Connect With Me
 
 <p align="left">
