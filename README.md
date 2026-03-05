@@ -1,20 +1,49 @@
+# Hi, I'm Ejaz Ahmed 👋
+📊 Data Analyst | SQL | Tableau | Python  
+🤖 Aspiring AI & Data Science Researcher  
 
-<img src='Purple Gradient Digital Marketing LinkedIn Banner.png'/>                
-<!-- ![Profile views](https://gpvc.arturio.dev/Ejaz-100400)   -->
-I do web development and continuous updates in my coding and I enjoy creating Web-elements.
-<pre> 
-Skills: 
-* 💻 Reactjs,CSS3,Bootstrap,Tailwind,Nodejs & Express 
-- 🌱 I’m currently learning Back-End   
-- 📫 How to reach me: ejazahmed4688@gmail.com  
+---
+## 🔹 About Me
+- 3+ years of experience as a Data Analyst
+- Strong in SQL & Tableau dashboards
+- Currently improving Python for Data Analysis & Machine Learning
+- Interested in AI-driven analytics and intelligent systems
 
-</pre>
-<!-- <video src="https://github.com/Ejaz-100400/media/blob/main/ejaportfolio.mp4"></video> -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ejaz-100400)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz-100400)](https://github.com/anuraghazra/github-readme-stats)-->
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejaz-100400&show_icons=true)  
+## 🔹 Skills
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-100400)  
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ejaz-100400) --> 
+**Programming**
+- Python
+- SQL
 
+**Data Analysis**
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+
+**Visualization**
+- Tableau
+- Matplotlib
+- Seaborn
+
+**Machine Learning**
+- Scikit-learn
+- TensorFlow
+- CNN Models
+
+---
+
+## 🔹 Learning Goals 2026
+- Machine Learning
+- Deep Learning
+- AI Applications
+- Advanced Data Analytics
+
+---
+
+## 🔹 Connect With Me
+
+LinkedIn: (add your link)  
+Email: (your email)
